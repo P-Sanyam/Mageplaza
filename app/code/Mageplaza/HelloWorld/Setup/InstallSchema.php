@@ -1,4 +1,5 @@
 <?php
+
 namespace Mageplaza\HelloWorld\Setup;
 
 class InstallSchema implements \Magento\Framework\Setup\InstallSchemaInterface
