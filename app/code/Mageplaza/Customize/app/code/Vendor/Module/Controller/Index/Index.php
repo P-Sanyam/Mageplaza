@@ -1,5 +1,7 @@
-
 <?php
+
+declare(strict_types=1);
+
 namespace Mageplaza\Customize\Controller\Index;
 
 class Index extends \Magento\Framework\App\Action\Action
